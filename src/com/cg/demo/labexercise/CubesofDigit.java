@@ -20,6 +20,7 @@ public class CubesofDigit {
 			
 		}
 		System.out.println(sum);
+		System.out.println("ankita");
 		
 		
 	}
